@@ -1,0 +1,1324 @@
+<div class="jobs-search__job-details--wrapper">
+      <div></div>
+
+          
+      <div aria-label="AI Developer" class="jobs-search__job-details--container
+          " data-job-details-events-trigger="">
+        
+      
+    <div class="job-view-layout jobs-details">
+      <div>
+        <div class="jobs-details__main-content jobs-details__main-content--single-pane full-width
+            ">
+            
+
+<!---->  
+          
+          <div>
+            
+    <div class="t-14" tabindex="-1">
+<!---->      <div class="relative
+          job-details-jobs-unified-top-card__container--two-pane">
+        <div>
+          <div class="display-flex align-items-center">
+            <div class="display-flex align-items-center flex-1">
+                <a class="app-aware-link " aria-label="Yates Construction logo" href="https://www.linkedin.com/company/yates-construction/life" data-test-app-aware-link="">
+                    
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="32" src="https://media.licdn.com/dms/image/C4D0BAQHornh5Vr9j7g/company-logo_100_100/0/1631310544587?e=1730332800&amp;v=beta&amp;t=1y7DOwj3dHcy1FIOFkumIJAI-IJlVhXM94hAbKCY-sY" loading="lazy" height="32" alt="Yates Construction logo" id="ember45" class="ivm-view-attr__img--centered EntityPhoto-square-1   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+                </a>
+
+                <div class="job-details-jobs-unified-top-card__company-name">
+                  <a class="app-aware-link " target="_self" href="https://www.linkedin.com/company/yates-construction/life" data-test-app-aware-link=""><!---->Yates Construction<!----></a>
+                </div>
+            </div>
+<!---->          </div>
+
+          <div class="display-flex justify-space-between flex-wrap mt2">
+            <div class="t-24 job-details-jobs-unified-top-card__job-title
+                job-details-jobs-unified-top-card__job-title--with-margin
+                ">
+              <h1 class="t-24 t-bold inline"><a href="/jobs/view/3978167054/?alternateChannel=search&amp;refId=NotAvailable&amp;trackingId=M4G88Yq5TRCOsptwczIu4w%3D%3D&amp;trk=d_flagship3_search_srp_jobs" id="ember46" class="ember-view">AI Developer</a></h1><span class="white-space-nowrap">&nbsp;<button class="job-details-jobs-unified-top-card__job-title-badge" aria-label="View verified hiring modal" type="button">
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <svg role="none" aria-hidden="true" class="ivm-view-attr__icon  " xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="verified-medium">
+<!---->    
+    <use href="#verified-medium" width="24" height="24"></use>
+</svg>
+
+    </div>
+  
+          </div>
+  </button></span></div>
+
+<!---->          </div>
+
+<!---->
+          <div class="job-details-jobs-unified-top-card__primary-description-container">
+              <div class="t-black--light mt2">
+                <span class="tvm__text tvm__text--low-emphasis"><!---->Birmingham, AL<!----></span><span class="tvm__text tvm__text--low-emphasis"><span class="white-space-pre"> </span>·<span class="white-space-pre"> </span></span><span class="tvm__text tvm__text--low-emphasis"><span><!---->1 week ago<!----></span></span><span class="tvm__text tvm__text--low-emphasis"><span class="white-space-pre"> </span>·<span class="white-space-pre"> </span></span><span class="tvm__text tvm__text--low-emphasis"><!---->Over 100 applicants<!----></span>
+              </div>
+          </div>
+
+<!---->
+            <div class="mt2 mb2">
+                <ul>
+                      <li class="job-details-jobs-unified-top-card__job-insight job-details-jobs-unified-top-card__job-insight--highlight">
+                          <div class="flex-shrink-zero mr2 t-black--light">
+                            
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <li-icon aria-hidden="true" type="job" class="ivm-view-attr__icon  " size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M17 6V5a3 3 0 00-3-3h-4a3 3 0 00-3 3v1H2v4a3 3 0 003 3h14a3 3 0 003-3V6zM9 5a1 1 0 011-1h4a1 1 0 011 1v1H9zm10 9a4 4 0 003-1.38V17a3 3 0 01-3 3H5a3 3 0 01-3-3v-4.38A4 4 0 005 14z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+                          </div>
+                        <span>
+<!---->
+                              <span>
+                                
+    <span class="ui-label ui-label--accent-3 text-body-small">
+      <span aria-hidden="true"><!---->Hybrid<!----></span><span class="visually-hidden"><!---->Matches your job preferences, workplace type is Hybrid.<!----></span>
+    </span>
+  
+                              </span>
+                              <span class="job-details-jobs-unified-top-card__job-insight-view-model-secondary">
+                                <!---->Full-time<!---->
+                              </span>
+
+<!---->                              <span class="job-details-jobs-unified-top-card__job-insight-view-model-secondary">
+                                <!---->Entry level<!---->
+                              </span>
+
+<!---->                        </span>
+                      </li>
+                                          <li class="job-details-jobs-unified-top-card__job-insight job-details-jobs-unified-top-card__job-insight--highlight">
+                          <div class="flex-shrink-zero mr2 t-black--light">
+                            
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <li-icon aria-hidden="true" type="certificate" class="ivm-view-attr__icon  " size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M2 4v16h20V4zm18 14H4V6h16zm-2-8H6V9h12zm-2 1v1H8v-1zm-5 5H6v-1h5zm6.5-2a1.5 1.5 0 11-1.5 1.5 1.5 1.5 0 011.5-1.5z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+                          </div>
+                        <span>
+                              <span>
+                                <!---->Machine Learning<!---->
+                              </span>
+
+<!---->                        </span>
+                      </li>
+                                              <li class="job-details-jobs-unified-top-card__job-insight">
+                              <div class="flex-shrink-zero mr2 t-black--light">
+                                
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <svg role="none" aria-hidden="true" class="ivm-view-attr__icon   rtl-flip" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="checklist-medium">
+<!---->    
+    <use href="#checklist-medium" width="24" height="24"></use>
+</svg>
+
+    </div>
+  
+          </div>
+  
+                              </div>
+                            <button class="job-details-jobs-unified-top-card__job-insight-text-button" aria-label="View strong skill match modal" tabindex="-1" type="button">
+                              <a class="app-aware-link " target="_self" href="#HYM" data-test-app-aware-link=""><!---->8 of 9 skills match your profile - you may be a good fit<!----></a>
+                            </button>
+                          </li>
+<!----><!---->                </ul>
+            </div>
+
+            
+      <div class="coach-mark-list__container">
+<!----><!---->          
+    <div class="display-flex align-items-center">
+<!---->
+      <ul class="GSnkRrEPdQDZcGJlnGrvyGdrQSVLxPjKLdAUuHM
+          coach-mark-list__multi-container">
+          <li class="DDHtTZEtDZjoMMCBpTuVrQenflLzpywLszUTo
+              kYaxkEtkXAHLVvnyrgsxKGdcceSkSkUqySs
+              ">
+            
+              
+  
+    
+      
+    <button aria-owns="coach-container" class="artdeco-button
+        artdeco-button--1
+        artdeco-button--circle
+        artdeco-button--tertiary
+        artdeco-button--muted artdeco-button artdeco-button--2 artdeco-button--circle artdeco-button--tertiary coach-jdp-empty-sparkle-button__hscroll" type="button">
+      <svg role="none" aria-hidden="true" class="artdeco-button__icon
+          WNdaiNbFiISutNCgUYhZGUVfsXuInWzqcpnI" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="signal-ai-small">
+<!---->    
+    <use href="#signal-ai-small" width="16" height="16"></use>
+</svg>
+
+<!---->    </button>
+  
+  
+  
+
+          
+          </li>
+          <li class="DDHtTZEtDZjoMMCBpTuVrQenflLzpywLszUTo
+              
+              ">
+            
+              
+  
+    
+      
+    <button aria-label="Am I a good fit for this job?" id="coach-mark-list-prompt__blackout-target-1" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view ZLtMBfqHPKUhrAoDEEgXhIzybFZzSwfiWCkKE">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="signal-ai-small">
+<!---->    
+    <use href="#signal-ai-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Am I a good fit for this job?
+</span></button>
+  
+  
+  
+
+          
+          </li>
+          <li class="DDHtTZEtDZjoMMCBpTuVrQenflLzpywLszUTo
+              
+              ">
+            
+              
+  
+    
+      
+    <button aria-label="How can I best position myself for this job?" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view ZLtMBfqHPKUhrAoDEEgXhIzybFZzSwfiWCkKE">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="signal-ai-small">
+<!---->    
+    <use href="#signal-ai-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    How can I best position myself for this job?
+</span></button>
+  
+  
+  
+
+          
+          </li>
+          <li class="DDHtTZEtDZjoMMCBpTuVrQenflLzpywLszUTo
+              
+              aRUEBUVsayZkqLgLtgpvpSxVMisIEpRolkg">
+            
+              
+  
+    
+      
+    <button aria-label="Tell me more about Yates Con..." class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view ZLtMBfqHPKUhrAoDEEgXhIzybFZzSwfiWCkKE">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="signal-ai-small">
+<!---->    
+    <use href="#signal-ai-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Tell me more about Yates Con...
+</span></button>
+  
+  
+  
+
+          
+          </li>
+      </ul>
+
+        <button aria-label="Scroll right" id="ember68" class="artdeco-button artdeco-button--muted artdeco-button--1 artdeco-button--tertiary ember-view coach-shared-hscroll-bar__right-button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon  rtl-flip" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="chevron-right-small">
+<!---->    
+    <use href="#chevron-right-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    
+</span></button>
+    </div>
+  
+      </div>
+  
+
+          <div class="mt5">
+              <div class="display-flex">
+<!---->                  
+    <div class="jobs-s-apply jobs-s-apply--fadein inline-flex mr2">
+        
+    <div class="jobs-apply-button--top-card">
+      <button role="link" aria-label="Apply to AI Developer on company website" id="ember50" class="jobs-apply-button artdeco-button artdeco-button--icon-right artdeco-button--3 artdeco-button--primary ember-view">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="link-external-small">
+<!---->    
+    <use href="#link-external-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Apply
+</span></button>
+    </div>
+  
+    </div>
+  
+
+                  <span class="visibility-hidden"></span>
+
+                      
+    <button class="jobs-save-button artdeco-button artdeco-button--secondary artdeco-button--3" type="button">
+        <span aria-hidden="true">
+          Save
+        </span>
+        <span class="a11y-text">
+          Save AI Developer&nbsp;  at Yates Construction
+        </span>
+    </button>
+  
+              </div>
+
+<!---->
+<!---->
+<!----><!---->          </div>
+
+<!---->
+<!---->
+<!----><!---->
+<!---->        </div>
+
+<!---->
+<!---->
+          <div class="job-details-jobs-unified-top-card__buttons-container absolute">
+            <div class="display-flex flex-column">
+              <div class="display-flex justify-flex-end">
+                  
+    <div id="ember51" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+        <button aria-expanded="false" aria-label="Share" id="ember52" class="social-share__dropdown-trigger artdeco-button artdeco-button--3 artdeco-button--tertiary artdeco-button--circle artdeco-button--muted artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button" tabindex="0">
+          <svg role="none" aria-hidden="true" class="artdeco-button__icon rtl-flip" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="share-linkedin-medium">
+<!---->    
+    <use href="#share-linkedin-medium" width="24" height="24"></use>
+</svg>
+
+          <span class="artdeco-button__text">Share</span>
+        
+<!----></button>
+
+      <div tabindex="-1" aria-hidden="true" id="ember53" class="social-share__content text-align-left artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+
+    <div>
+  
+      
+<!---->  
+  
+</div>
+
+<!---->
+
+<!---->  
+                  
+    <div id="ember54" class="artdeco-dropdown jobs-options artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      
+                    <button aria-expanded="false" id="ember55" class="artdeco-button artdeco-button--3 artdeco-button--tertiary artdeco-button--muted artdeco-button--circle artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button" tabindex="0">
+                      <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="overflow-web-ios-medium">
+<!---->    
+    <use href="#overflow-web-ios-medium" width="24" height="24"></use>
+</svg>
+
+                      <span class="artdeco-button__text">
+                        Show more options
+                      </span>
+                    
+<!----></button>
+                  
+      <div tabindex="-1" aria-hidden="true" id="ember56" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  
+              </div>
+            </div>
+          </div>
+      </div>
+        <div class="job-details-jobs-unified-top-card__sticky-header
+            job-details-jobs-unified-top-card__sticky-header--disabled">
+          <div class="job-details-jobs-unified-top-card__title-container">
+              <a data-control-id="M4G88Yq5TRCOsptwczIu4w==" href="/jobs/view/3978167054/?alternateChannel=search&amp;refId=NotAvailable&amp;trackingId=M4G88Yq5TRCOsptwczIu4w%3D%3D&amp;trk=d_flagship3_search_srp_jobs" id="ember57" class="ember-view">
+                <h2 class="t-16 t-black t-bold truncate">
+                  AI Developer
+                </h2>
+              </a>
+            <div class="t-14 truncate">
+              Yates Construction · Birmingham, AL (Hybrid)
+            </div>
+          </div>
+          <div class="job-details-jobs-unified-top-card__sticky-buttons-container">
+              
+    <div class="jobs-s-apply jobs-s-apply--fadein inline-flex mr2">
+        
+    <div class="jobs-apply-button--top-card">
+      <button role="link" aria-label="Apply to AI Developer on company website" id="ember58" class="jobs-apply-button artdeco-button artdeco-button--icon-right artdeco-button--2 artdeco-button--primary ember-view">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="link-external-small">
+<!---->    
+    <use href="#link-external-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Apply
+</span></button>
+    </div>
+  
+    </div>
+  
+
+                  
+    <button class="jobs-save-button mr2 artdeco-button artdeco-button--2 artdeco-button--secondary" aria-expanded="false" type="button">
+        <span aria-hidden="true">
+          Save
+        </span>
+        <span class="a11y-text">
+          Save AI Developer&nbsp;  at Yates Construction
+        </span>
+    </button>
+  
+
+            
+    <div id="ember59" class="artdeco-dropdown jobs-options artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view inline-flex">
+      
+              <button aria-expanded="false" id="ember60" class="artdeco-button artdeco-button--2 artdeco-button--tertiary artdeco-button--muted artdeco-button--circle artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button" tabindex="0">
+                <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="overflow-web-ios-medium">
+<!---->    
+    <use href="#overflow-web-ios-medium" width="24" height="24"></use>
+</svg>
+
+                <span class="artdeco-button__text">
+                  Show more options
+                </span>
+              
+<!----></button>
+            
+      <div tabindex="-1" aria-hidden="true" id="ember61" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  
+          </div>
+        </div>
+    </div>
+  
+<!---->
+<!---->
+<!---->          </div>
+
+<!---->
+<!---->
+<!---->
+            
+    <div class="jobs-box--fadein jobs-box--full-width jobs-box--with-cta-large jobs-description
+        
+        
+        
+         jobs-description--reformatted
+        
+         mt4">
+
+<!---->
+      <article class="jobs-description__container
+          ">
+        <div class="jobs-description__content jobs-description-content
+            ">
+          <div class="jobs-box__html-content jobs-description-content__text t-14 t-normal
+              jobs-description-content__text--stretch" id="job-details" tabindex="-1">
+            <h2 class="text-heading-large">
+              About the job
+            </h2>
+
+<!---->            <div class="mt4">
+                <span><strong><!---->Job Summary<!----><span><br></span><span><br></span></strong></span><!---->Skilled AI Developer with expertise in working with Large Language Models (LLMs) such as Google Gemini, Microsoft Copilot, OpenAI, and others. The ideal candidate will have experience customizing and developing AI solutions that securely and effectively utilize company confidential data. This role will involve creating 'wrappers' for front-end applications to streamline AI integration and ensure accurate, efficient results. The AI Developer will also collaborate with internal teams and third-party developers when required to build out systems. Developed solutions should be scalable across the company to meet the different needs of departments, divisions, and even affiliate companies.<!----><span><br></span><span><br></span><span><strong><!---->Responsibilities<!----><span><br></span><span><br></span></strong></span><span>      <ul><span><li><!---->Develop and implement AI solutions using existing LLM environments, including but not limited to Google Gemini, Microsoft Copilot, and OpenAI.<!----></li></span><span><li><!---->Customize and fine-tune AI models to meet the specific needs of Yates Construction.<!----></li></span><span><li><!---->Write and maintain 'wrappers' for front-end applications to prompt AI platforms for optimal performance.<!----></li></span><span><li><!---->Ensure the secure handling and processing of company confidential data within AI models.<!----></li></span><span><li><!---->Collaborate with cross-functional internal teams and third-party developers as needed to build out and enhance AI systems.<!----></li></span><span><li><!---->Developed solutions should be scalable across the company to meet the different needs of departments, divisions, and even affiliate companies.<!----></li></span><span><li><!---->Conduct research and stay updated on the latest AI and machine learning technology advancements.<!----></li></span><span><li><!---->Provide technical support and training to team members on AI tools and applications.<!----></li></span><span><li><!---->Assist in the development of AI-driven insights and reports to support decision-making processes.<!----></li></span><span><li><!---->Demonstrate Yates Core Values and Principles<!----></li></span><span><li><!---->Follow Yates Code of Conduct<!----></li></span><span><li><!---->Safety Responsibilities and Expectations<!----></li></span><span><li><!---->Responsible for refusing unsafe work and for carrying out all work in accordance with the established Yates Safety Procedures and Work Practices<!----></li></span><span><li><!---->Report all incidents, near hits, and hazards to<span class="white-space-pre"> </span></li></span><span><li><!---->Required to wear and maintain personal<!----></li></span><span><li><!---->Advise fellow employees of hazardous<span class="white-space-pre"> </span></li></span><span><li><!---->Participate in workplace<span class="white-space-pre"> </span></li></span><span><li><!---->Comply with statutory requirements, including duty of care.<!----></li></span><span><li><!---->Participate in required and/or assigned training.<!----></li></span><span><li><!---->Provide suggestions to improve<span class="white-space-pre"> </span></li></span><span><li><!---->Present a mature approach to working<span class="white-space-pre"> </span></li></span><span><li><!---->Attend prestart and Safety meetings and<span class="white-space-pre"> </span></li></span><span><li><!---->Assists with administering the site safety program as required and ensuring Trade Partner compliance with OSHA standards, Yates Site Specific Requirements, and all applicable safety codes and regulations.<!----></li></span><span><li><!---->Other related duties as needed and assigned by the Manager in support of the successful completion of the project.<!----></li></span></ul>
+</span>
+<!---->            </div>
+          </div>
+          <div class="jobs-description__details">
+<!---->          </div>
+        </div>
+      </article>
+<!---->    </div>
+  
+
+<!---->
+                <div>
+                  
+    <div class="p5 artdeco-card
+        job-details-segment-attribute-card-two-pane mt4" id="SEGMENT">
+      <h2 class="t-16 t-bold">
+        Details found in the job post
+      </h2>
+        <p class="pt1 t-14 t-black--light">
+          Retrieved from the description
+        </p>
+        <div class="mt4">
+          <h3 class="t-14 t-black--light">
+            Developer Role
+          </h3>
+          <p class="t-16">
+            Machine Learning
+          </p>
+        </div>
+    </div>
+  
+                </div>
+
+            <div id="SALARY" class="jobs-details__salary-main-rail-card">
+<!----><!---->            </div>
+
+                    
+
+    <div class="job-details-how-you-match-card__container mb4 artdeco-card
+        premium-accent-bar mt4" id="how-you-match-card-container">
+      <section class="job-details-how-you-match-card__header p5">
+          <div>
+            <svg role="img" aria-hidden="false" aria-label="Premium" xmlns="http://www.w3.org/2000/svg" width="78" height="8" viewBox="0 0 78 8" data-supported-dps="78x8" data-test-icon="premium-badge-xxxsmall">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/3068z204ww5pg0wt1qbemtzul" x="0" y="0" width="78" height="8"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/181jrk4wmnppkt9vl21cauxpa" x="0" y="0" width="78" height="8"></image>
+    </svg>
+</svg>
+
+          </div>
+        <h2 id="how-you-match-card-title" tabindex="-1" class="t-20 t-bold">
+          Qualifications
+        </h2>
+          <div class="display-flex flex-row align-items-center
+              mt4
+              ">
+            <svg role="none" aria-hidden="true" class="mr4" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" data-supported-dps="48x48" data-test-icon="award">
+<!---->  <svg display="var(--hue-web-svg-display-dark)">
+    <image href="https://static.licdn.com/aero-v1/sc/h/1y3wsfp5lv880i74x26pqr48" x="0" y="0" width="48" height="48"></image>
+  </svg>
+
+  <svg display="var(--hue-web-svg-display-light)">
+    <image href="https://static.licdn.com/aero-v1/sc/h/7q9wz6ybucgtk373zipaachue" x="0" y="0" width="48" height="48"></image>
+  </svg>
+</svg>
+            <h2 class="fit-content-width text-body-medium">
+              8 of 9 skills match your profile - you may be a good fit
+            </h2>
+          </div>
+<!----><!---->      </section>
+
+<!---->
+          <section class="ph5">
+            
+    <div>
+        <div class="pt5">
+          <h3 class="t-16 t-bold">Skills associated with the job post</h3>
+          <p class="job-details-how-you-match__skills-section-subheader t-12">Identified by LinkedIn</p>
+<!---->            <a class="app-aware-link  job-details-how-you-match__skills-section-descriptive-skill t-14" href="#" data-test-app-aware-link="">Convolutional Neural Networks (CNN) · Pattern Recognition · Computer Vision · Data Science · Artificial Intelligence (AI) · Natural Language Processing (NLP) · Computer Science · Deep Learning · Duty of Care</a>
+        </div>
+        <div class="pt5">
+          <h3 class="t-16 t-bold">Additional skills among applicants</h3>
+          <!---->
+<!---->            <a class="app-aware-link  job-details-how-you-match__skills-section-descriptive-skill t-14" href="#" data-test-app-aware-link="">Java · JavaScript · Machine Learning · Python (Programming Language) · C (Programming Language) · C++ · SQL</a>
+        </div>
+        
+    <div class="ph4 pv3 mt4 display-flex align-items-center job-details-how-you-match__tip-wrapper--premium">
+<!---->        <div class="display-flex">
+          <svg role="none" aria-hidden="true" class="mr2 job-details-how-you-match__tip-icon--premium" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="lightbulb-medium">
+<!---->    
+    <use href="#lightbulb-medium" width="24" height="24"></use>
+</svg>
+
+        </div>
+        <div class="text-body-small">
+          <!---->If you have additional skills from the job post, add them to your profile now.<span class="white-space-pre"> </span><a class="app-aware-link " target="_self" href="https://www.linkedin.com/jobs/skill-match?jobId=3978167054" data-test-app-aware-link=""><span><strong><!---->Add skills<!----></strong></span></a>
+        </div>
+<!---->    </div>
+  
+        <button id="ember508" class="mv5 t-16 pt1 pb1 artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--2 artdeco-button--secondary ember-view">        <svg role="none" aria-hidden="true" class="artdeco-button__icon  rtl-flip" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="arrow-right-small">
+<!---->    
+    <use href="#arrow-right-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Show qualification details
+</span></button>
+    </div>
+  
+          </section>
+
+<!----><!---->
+<!---->
+<!---->    </div>
+  
+
+<!---->              
+    <div class="mt4">
+        
+    <div class="jobs-premium-applicant-insights artdeco-card premium-accent-bar
+         ">
+      <div class="display-flex justify-space-between">
+        <div class="display-flex align-items-center">
+          <svg role="img" aria-hidden="false" aria-label="Premium" xmlns="http://www.w3.org/2000/svg" width="78" height="8" viewBox="0 0 78 8" data-supported-dps="78x8" data-test-icon="premium-badge-xxxsmall">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/3068z204ww5pg0wt1qbemtzul" x="0" y="0" width="78" height="8"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/181jrk4wmnppkt9vl21cauxpa" x="0" y="0" width="78" height="8"></image>
+    </svg>
+</svg>
+
+        </div>
+        <div id="applicant-insights-container-outlet">  <div id="artdeco-hoverable-artdeco-gen-42" class="artdeco-hoverable-content jobs-premium-branding__hovercard artdeco-hoverable-content--inverse-theme artdeco-hoverable-content--open-spacing artdeco-hoverable-content--undefined-placement" tabindex="-1" role="tooltip" aria-hidden="true">
+    <div class="artdeco-hoverable-content__shell">
+        <button class="artdeco-hoverable-content__close-btn" aria-label="Dismiss" type="button">
+          <li-icon aria-hidden="true" type="cancel-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M14 3.41L9.41 8 14 12.59 12.59 14 8 9.41 3.41 14 2 12.59 6.59 8 2 3.41 3.41 2 8 6.59 12.59 2z"></path>
+    </svg></li-icon>
+        </button>
+      <div class="artdeco-hoverable-content__content">
+        
+            <p class="t-16 t-black t-bold">Insights about this job’s applicants</p><p class="t-14 t-black--light t-normal">Here’s where you can see if this job is a good fit for you by learning how you stack up against other applicants, what your unique advantages are, and how your skills and background help you stand out from the crowd.</p><a href="/help/linkedin/answer/45159" data-control-name="premium_jobdetails_applicant_insights_learn_more" target="_blank" id="applicant-insights-learn-more-link" class="link" aria-label="Learn more about premium insights related to job applicants and hiring companies">Learn more</a>
+          
+      </div>
+    </div>
+    <div class="artdeco-hoverable-content__arrow" aria-hidden="true"></div>
+  </div>
+</div>
+        <span tabindex="-1" id="ember69" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-bottom ember-view">
+          <button aria-controls="artdeco-hoverable-artdeco-gen-42" aria-expanded="false" aria-label="Learn more about applicant insights" type="button">
+            <svg role="none" aria-hidden="true" class="jobs-details-premium-insight__tooltip-pebble rtl-flip-selective" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="question-small">
+<!---->    
+    <use href="#question-small" width="16" height="16"></use>
+</svg>
+
+          </button>
+          <div id="artdeco-gen-42" class="ember-view"><div id="ember71" class="ember-view"></div></div>
+        </span>
+      </div>
+        <h2 class="jobs-box__title text-heading-large t-sans t-black">
+              See how you compare to other people who clicked Apply
+        </h2>
+        <div class="jobs-premium-applicant-insights__row-container" data-view-name="premium-job-applicant-insights">
+          
+    <div class="jobs-details-premium-insight jobs-details-premium-insight--row jobs-details-premium-insight--left-column applicant-rank">
+        <h3 class="jobs-details-premium-insight__title">
+              People who clicked Apply
+        </h3>
+        <ul class="jobs-details-premium-insight__list jobs-premium-applicant-insights__list">
+          <li class="jobs-premium-applicant-insights__list-item">
+                <span class="jobs-premium-applicant-insights__list-num t-18 t-bold pr2">188</span><span class="jobs-premium-applicant-insights__list-description t-14 t-normal">People clicked Apply</span>
+          </li>
+          <li class="jobs-premium-applicant-insights__list-item">
+                <span class="jobs-premium-applicant-insights__list-num t-18 t-bold pr2">3</span><span class="jobs-premium-applicant-insights__list-description t-14 t-normal">People clicked Apply in the past day</span>
+          </li>
+        </ul>
+    </div>
+  
+<!---->        </div>
+
+          <div class="jobs-premium-applicant-insights__row-container flex-column">
+              
+    <div class="jobs-details-premium-insight jobs-details-premium-insight--row jobs-details-premium-insight--left-column applicant-experience">
+      <h3 class="jobs-details-premium-insight__title">
+            Seniority level
+      </h3>
+
+      <ul class="jobs-details-premium-insight__list">
+              <li>
+                <p class="t-14 t-normal mb2 mh0">
+                  <span class="t-bold">72</span> Entry level people clicked Apply
+                </p>
+                <progress class="jobs-premium-applicant-insights__bars mb4" max="72" value="72" aria-hidden="true"></progress>
+              </li>
+              <li>
+                <p class="t-14 t-normal mb2 mh0">
+                  <span class="t-bold">24</span> Senior level people clicked Apply
+                </p>
+                <progress class="jobs-premium-applicant-insights__bars mb4" max="72" value="24" aria-hidden="true"></progress>
+              </li>
+              <li>
+                <p class="t-14 t-normal mb2 mh0">
+                  <span class="t-bold">1</span> CXO level people clicked Apply
+                </p>
+                <progress class="jobs-premium-applicant-insights__bars mb4" max="72" value="1" aria-hidden="true"></progress>
+              </li>
+      </ul>
+    </div>
+  
+              
+    <div class="jobs-details-premium-insight jobs-details-premium-insight--row applicant-education">
+      <h3 class="jobs-details-premium-insight__title">
+            Education level
+      </h3>
+
+      <ul class="jobs-details-premium-insight__list jobs-premium-applicant-insights__list">
+          <li class="jobs-premium-applicant-insights__list-item text-align-right pb1">
+            <span class="t-32 pr2
+                
+                ">
+              52<span class="t-16 t-black t-normal">%</span>
+            </span>
+            <span class="jobs-premium-applicant-insights__list-description text-align-left t-14 t-normal">
+              have a Master's Degree
+            </span>
+          </li>
+          <li class="jobs-premium-applicant-insights__list-item text-align-right pb1">
+            <span class="t-32 pr2
+                
+                ">
+              32<span class="t-16 t-black t-normal">%</span>
+            </span>
+            <span class="jobs-premium-applicant-insights__list-description text-align-left t-14 t-normal">
+              have a Master of Science
+            </span>
+          </li>
+          <li class="jobs-premium-applicant-insights__list-item text-align-right pb1">
+            <span class="t-32 pr2
+                
+                ">
+              8<span class="t-16 t-black t-normal">%</span>
+            </span>
+            <span class="jobs-premium-applicant-insights__list-description text-align-left t-14 t-normal">
+              have a Bachelor of Technology
+            </span>
+          </li>
+
+          <li class="jobs-premium-applicant-insights__list-item text-align-right">
+            <span class="t-32 pr2">
+              8<span class="t-16 t-black t-normal">%</span>
+            </span>
+            <span class="jobs-premium-applicant-insights__list-description text-align-left t-14 t-normal">
+              have other degrees
+            </span>
+          </li>
+      </ul>
+    </div>
+  
+          </div>
+
+<!---->    </div>
+  
+          
+    <div class="jobs-premium-company-insights artdeco-card premium-accent-bar
+        " data-view-name="premium-job-company-insights">
+      <div class="jobs-premium-branding display-flex justify-space-between full-width align-items-center pb0">
+        <svg role="img" aria-hidden="false" aria-label="Premium" xmlns="http://www.w3.org/2000/svg" width="78" height="8" viewBox="0 0 78 8" data-supported-dps="78x8" data-test-icon="premium-badge-xxxsmall">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/3068z204ww5pg0wt1qbemtzul" x="0" y="0" width="78" height="8"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/181jrk4wmnppkt9vl21cauxpa" x="0" y="0" width="78" height="8"></image>
+    </svg>
+</svg>
+
+
+        <span tabindex="-1" id="ember509" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-bottom ember-view">
+          <button aria-controls="artdeco-hoverable-artdeco-gen-90" aria-expanded="false" type="button">
+            <svg role="img" aria-hidden="false" aria-label="Learn more about company insights" class="jobs-details-premium-insight__tooltip-pebble rtl-flip-selective" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="question-small">
+<!---->    
+    <use href="#question-small" width="16" height="16"></use>
+</svg>
+
+          </button>
+          <div id="artdeco-gen-90" class="ember-view"><div id="ember511" class="ember-view"></div></div>
+        </span>
+      </div>
+        <h2 class="text-heading-large t-sans t-black
+            jobs-box__title">
+            <!---->See if Yates Construction is hiring people like you<!---->
+        </h2>
+<!---->
+<!---->
+          <div class="jobs-details-premium-insight hiring-trends">
+            <h3 class="jobs-premium-company-insights__title">
+                <!---->The latest hiring trends.<!---->
+                          </h3>
+
+            
+    <div class="jobs-premium-company-growth pt1">
+      
+              <ul class="list-style-none display-flex flex-wrap mb3">
+                <li class="jobs-premium-company-growth__stat-item">
+                  <p class="t-16 t-black--light t-bold">1,705</p><p class="t-14 t-black--light t-normal">Total employees</p>
+                </li>
+                <li class="jobs-premium-company-growth__stat-item ph5">
+                  <p class="t-16 t-black--light t-bold" aria-hidden="true">
+                    <span class="jobs-premium-company-growth__number-with-arrow jobs-premium-company-growth__number-with-arrow--increase"></span>
+                    29%
+                  </p>
+                  <p class="t-14 t-black--light t-normal">
+                    Company-wide
+                  </p>
+                  <p class="t-12 t-black--light t-normal">
+                    2 year growth
+                  </p>
+                  <span class="visually-hidden">
+                    29% increase
+                  </span>
+                </li>
+                  <li class="jobs-premium-company-growth__stat-item jobs-premium-company-growth__function-stat-item ph5">
+                    <p class="t-16 t-black--light t-bold" aria-hidden="true">
+                      <span class="jobs-premium-company-growth__number-with-arrow jobs-premium-company-growth__number-with-arrow--increase"></span>
+                      20%
+                    </p>
+                    <p class="t-14 t-black--light t-normal">
+                      Engineering
+                    </p>
+                    <p class="t-12 t-black--light t-normal">
+                      2 year growth
+                    </p>
+                    <span class="visually-hidden">
+                      20% increase
+                    </span>
+                  </li>
+              </ul>
+            
+
+        <div class="jobs-premium-company-growth__chart">
+            <div class="highcharts-wrapper">
+  <div class="chart-container" data-highcharts-chart="2" role="region" aria-label="Chart. Highcharts interactive chart." aria-hidden="false" style="overflow: hidden;"><div id="highcharts-screen-reader-region-before-2" aria-label="Chart screen reader information." role="region" aria-hidden="false" style="position: relative;"><div aria-hidden="false" style="position: absolute; width: 1px; height: 1px; overflow: hidden; white-space: nowrap; clip: rect(1px, 1px, 1px, 1px); margin-top: -3px; opacity: 0.01;"><h4>Chart</h4><div>Chart with 25 data points.</div><div>The chart has 1 X axis displaying Time. Range: 2021-11-23 12:48:00 to 2024-08-06 09:12:00.</div><div>The chart has 1 Y axis displaying values. Range: 0 to 2000.</div></div></div><div aria-hidden="false" style="position:relative" class="highcharts-announcer-container"><div aria-hidden="false" aria-live="polite" style="position: absolute; width: 1px; height: 1px; overflow: hidden; white-space: nowrap; clip: rect(1px, 1px, 1px, 1px); margin-top: -3px; opacity: 0.01;"></div><div aria-hidden="false" aria-live="assertive" style="position: absolute; width: 1px; height: 1px; overflow: hidden; white-space: nowrap; clip: rect(1px, 1px, 1px, 1px); margin-top: -3px; opacity: 0.01;"></div><div aria-hidden="false" aria-live="polite" style="position: absolute; width: 1px; height: 1px; overflow: hidden; white-space: nowrap; clip: rect(1px, 1px, 1px, 1px); margin-top: -3px; opacity: 0.01;"></div></div><div id="highcharts-cwqdkh5-60" dir="ltr" class="highcharts-container " style="position: relative; overflow: hidden; width: 287px; height: 200px; text-align: left; line-height: normal; z-index: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); user-select: none; font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif;" tabindex="0" aria-hidden="false"><svg version="1.1" class="highcharts-root" style="font-family:&quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif;font-size:20;" xmlns="http://www.w3.org/2000/svg" width="287" height="200" viewBox="0 0 287 200" aria-label="Interactive chart" aria-hidden="false"><desc aria-hidden="true">Created with Highcharts 9.0.1</desc><defs aria-hidden="true"><clipPath id="highcharts-cwqdkh5-61-"><rect x="0" y="0" width="287" height="156" fill="none"></rect></clipPath></defs><rect fill="#ffffff" class="highcharts-background" x="0" y="0" width="287" height="200" rx="0" ry="0" aria-hidden="true"></rect><rect fill="none" class="highcharts-plot-background" x="0" y="1" width="287" height="156" aria-hidden="true"></rect><g class="highcharts-grid highcharts-yaxis-grid" data-z-index="1" aria-hidden="true"><path fill="none" stroke="#d9d9d9" stroke-width="1" data-z-index="1" class="highcharts-grid-line" d="M 0 157.5 L 287 157.5" opacity="1"></path><path fill="none" stroke="#d9d9d9" stroke-width="1" data-z-index="1" class="highcharts-grid-line" d="M 0 79.5 L 287 79.5" opacity="1"></path><path fill="none" stroke="#d9d9d9" stroke-width="1" data-z-index="1" class="highcharts-grid-line" d="M 0 0.5 L 287 0.5" opacity="1"></path></g><rect fill="none" class="highcharts-plot-border" data-z-index="1" x="0" y="1" width="287" height="156" aria-hidden="true"></rect><g class="highcharts-grid highcharts-xaxis-grid" data-z-index="1" aria-hidden="true"><path fill="none" data-z-index="1" class="highcharts-grid-line" d="M 63.5 1 L 63.5 157" opacity="1"></path><path fill="none" data-z-index="1" class="highcharts-grid-line" d="M 116.5 1 L 116.5 157" opacity="1"></path><path fill="none" data-z-index="1" class="highcharts-grid-line" d="M 169.5 1 L 169.5 157" opacity="1"></path><path fill="none" data-z-index="1" class="highcharts-grid-line" d="M 222.5 1 L 222.5 157" opacity="1"></path><path fill="none" data-z-index="1" class="highcharts-grid-line" d="M 275.5 1 L 275.5 157" opacity="1"></path></g><g class="highcharts-axis highcharts-yaxis" data-z-index="2" aria-hidden="true"><path fill="none" class="highcharts-axis-line" data-z-index="7" d="M 0 1 L 0 157"></path></g><g class="highcharts-axis highcharts-xaxis" data-z-index="2" aria-hidden="true"><path fill="none" class="highcharts-tick" stroke="#d9d9d9" stroke-width="2" d="M 64 157 L 64 166" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#d9d9d9" stroke-width="2" d="M 117 157 L 117 166" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#d9d9d9" stroke-width="2" d="M 170 157 L 170 166" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#d9d9d9" stroke-width="2" d="M 223 157 L 223 166" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#d9d9d9" stroke-width="2" d="M 276 157 L 276 166" opacity="1"></path><path fill="none" class="highcharts-axis-line" stroke="#ccd6eb" stroke-width="1" data-z-index="7" d="M 0 157.5 L 287 157.5"></path></g><g class="highcharts-series-group" data-z-index="3" aria-hidden="false"><g class="highcharts-series highcharts-series-0 highcharts-area-series" data-z-index="0.1" opacity="1" transform="translate(0,1) scale(1 1)" clip-path="url(#highcharts-cwqdkh5-61-)" aria-hidden="true"><path fill="#e1e9ee" d="M 63.777777777778 52.727999999999994 L 72.793332320008 52.104 L 81.808886862238 50.544 L 90.533617064397 49.452 L 99.549171606627 47.97 L 108.27390180879 47.736000000000004 L 117.28945635102 45.396 L 126.30501089325 44.694 L 134.44809241526 43.446 L 143.46364695749 42.587999999999994 L 152.18837715965 37.83 L 161.20393170188 36.348 L 169.92866190404 34.866 L 178.94421644627 35.334 L 187.9597709885 33.852000000000004 L 196.68450119066 33.306 L 205.70005573289 32.916 L 214.42478593505 33.072 L 223.44034047728 32.135999999999996 L 232.45589501951 30.108000000000004 L 240.88980088159 30.03 L 249.90535542382 28.626000000000005 L 258.63008562598 25.584000000000003 L 267.64564016821 23.71199999999999 L 276.37037037037 23.00999999999999 L 276.37037037037 156 L 267.64564016821 156 L 258.63008562598 156 L 249.90535542382 156 L 240.88980088159 156 L 232.45589501951 156 L 223.44034047728 156 L 214.42478593505 156 L 205.70005573289 156 L 196.68450119066 156 L 187.9597709885 156 L 178.94421644627 156 L 169.92866190404 156 L 161.20393170188 156 L 152.18837715965 156 L 143.46364695749 156 L 134.44809241526 156 L 126.30501089325 156 L 117.28945635102 156 L 108.27390180879 156 L 99.549171606627 156 L 90.533617064397 156 L 81.808886862238 156 L 72.793332320008 156 L 63.777777777778 156" class="highcharts-area" data-z-index="0"></path><path fill="none" d="M 63.777777777778 52.727999999999994 L 72.793332320008 52.104 L 81.808886862238 50.544 L 90.533617064397 49.452 L 99.549171606627 47.97 L 108.27390180879 47.736000000000004 L 117.28945635102 45.396 L 126.30501089325 44.694 L 134.44809241526 43.446 L 143.46364695749 42.587999999999994 L 152.18837715965 37.83 L 161.20393170188 36.348 L 169.92866190404 34.866 L 178.94421644627 35.334 L 187.9597709885 33.852000000000004 L 196.68450119066 33.306 L 205.70005573289 32.916 L 214.42478593505 33.072 L 223.44034047728 32.135999999999996 L 232.45589501951 30.108000000000004 L 240.88980088159 30.03 L 249.90535542382 28.626000000000005 L 258.63008562598 25.584000000000003 L 267.64564016821 23.71199999999999 L 276.37037037037 23.00999999999999" class="highcharts-graph" data-z-index="1" stroke="#0073b1" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"></path><path fill="none" d="M 63.777777777778 52.727999999999994 L 72.793332320008 52.104 L 81.808886862238 50.544 L 90.533617064397 49.452 L 99.549171606627 47.97 L 108.27390180879 47.736000000000004 L 117.28945635102 45.396 L 126.30501089325 44.694 L 134.44809241526 43.446 L 143.46364695749 42.587999999999994 L 152.18837715965 37.83 L 161.20393170188 36.348 L 169.92866190404 34.866 L 178.94421644627 35.334 L 187.9597709885 33.852000000000004 L 196.68450119066 33.306 L 205.70005573289 32.916 L 214.42478593505 33.072 L 223.44034047728 32.135999999999996 L 232.45589501951 30.108000000000004 L 240.88980088159 30.03 L 249.90535542382 28.626000000000005 L 258.63008562598 25.584000000000003 L 267.64564016821 23.71199999999999 L 276.37037037037 23.00999999999999" visibility="visible" data-z-index="2" class="highcharts-tracker-line" stroke-linecap="round" stroke-linejoin="round" stroke="rgba(192,192,192,0.0001)" stroke-width="22"></path></g><g class="highcharts-markers highcharts-series-0 highcharts-area-series highcharts-tracker" data-z-index="0.1" opacity="1" transform="translate(0,1) scale(1 1)" aria-hidden="false" aria-label=""><path fill="#ffffff" d="M 63 57.727999999999994 A 5 5 0 1 1 63.00499999916667 57.7279975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="1. Thursday, Jun 30, 20:00, 1,324 employees" style="outline: 0px;"></path><path fill="#ffffff" d="M 72 57.104 A 5 5 0 1 1 72.00499999916667 57.103997500000204 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="2. Sunday, Jul 31, 20:00, 1,332 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 81 55.544 A 5 5 0 1 1 81.00499999916667 55.5439975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="3. Wednesday, Aug 31, 20:00, 1,352 employees, increase 2% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 90 54.452 A 5 5 0 1 1 90.00499999916667 54.4519975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="4. Friday, Sep 30, 20:00, 1,366 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 99 52.97 A 5 5 0 1 1 99.00499999916667 52.969997500000204 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="5. Monday, Oct 31, 20:00, 1,385 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 108 52.736000000000004 A 5 5 0 1 1 108.00499999916667 52.73599750000021 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="6. Wednesday, Nov 30, 20:00, 1,388 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 117 50.396 A 5 5 0 1 1 117.00499999916667 50.395997500000206 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="7. Saturday, Dec 31, 20:00, 1,418 employees, increase 2% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 126 49.694 A 5 5 0 1 1 126.00499999916667 49.69399750000021 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="8. Tuesday, Jan 31, 20:00, 1,427 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 134 48.446 A 5 5 0 1 1 134.00499999916667 48.4459975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="9. Tuesday, Feb 28, 20:00, 1,443 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 143 47.587999999999994 A 5 5 0 1 1 143.00499999916667 47.5879975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="10. Friday, Mar 31, 20:00, 1,454 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 152 42.83 A 5 5 0 1 1 152.00499999916667 42.829997500000204 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="11. Sunday, Apr 30, 20:00, 1,515 employees, increase 4% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 161 41.348 A 5 5 0 1 1 161.00499999916667 41.347997500000204 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="12. Wednesday, May 31, 20:00, 1,534 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 169 39.866 A 5 5 0 1 1 169.00499999916667 39.865997500000205 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="13. Friday, Jun 30, 20:00, 1,553 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 178 40.334 A 5 5 0 1 1 178.00499999916667 40.33399750000021 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="14. Monday, Jul 31, 20:00, 1,547 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 187 38.852000000000004 A 5 5 0 1 1 187.00499999916667 38.85199750000021 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="15. Thursday, Aug 31, 20:00, 1,566 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 196 38.306 A 5 5 0 1 1 196.00499999916667 38.3059975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="16. Saturday, Sep 30, 20:00, 1,573 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 205 37.916 A 5 5 0 1 1 205.00499999916667 37.9159975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="17. Tuesday, Oct 31, 20:00, 1,578 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 214 38.072 A 5 5 0 1 1 214.00499999916667 38.07199750000021 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="18. Thursday, Nov 30, 20:00, 1,576 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 223 37.135999999999996 A 5 5 0 1 1 223.00499999916667 37.1359975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="19. Sunday, Dec 31, 20:00, 1,588 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 232 35.108000000000004 A 5 5 0 1 1 232.00499999916667 35.10799750000021 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="20. Wednesday, Jan 31, 20:00, 1,614 employees, increase 2% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 240 35.03 A 5 5 0 1 1 240.00499999916667 35.029997500000206 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="21. Thursday, Feb 29, 20:00, 1,615 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 249 33.626000000000005 A 5 5 0 1 1 249.00499999916667 33.62599750000021 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="22. Sunday, Mar 31, 20:00, 1,633 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 258 30.584000000000003 A 5 5 0 1 1 258.00499999916667 30.583997500000212 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="23. Tuesday, Apr 30, 20:00, 1,672 employees, increase 2% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 267 28.71199999999999 A 5 5 0 1 1 267.00499999916667 28.711997500000198 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="24. Friday, May 31, 20:00, 1,696 employees, increase 1% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 276 28.00999999999999 A 5 5 0 1 1 276.00499999916667 28.0099975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="25. Sunday, Jun 30, 20:00, 1,705 employees, increase 1% from last month" style="outline: 0px;"></path></g></g><text x="20" class="highcharts-title" data-z-index="4" style="color:#333333;font-size:18px;fill:#333333;" y="24" aria-hidden="true"></text><text x="149" text-anchor="middle" class="highcharts-subtitle" data-z-index="4" style="color:#666666;fill:#666666;" y="30" aria-hidden="true"></text><text x="20" text-anchor="start" class="highcharts-caption" data-z-index="4" style="color:#666666;fill:#666666;" y="203" aria-hidden="true"></text><g class="highcharts-plot-lines-5" data-z-index="5" aria-hidden="true"><path fill="none" class="highcharts-plot-line " stroke="rgba(0, 0, 0, 0.15)" stroke-width="2" d="M 0 157 L 287 157"></path></g><g class="highcharts-axis-labels highcharts-yaxis-labels" data-z-index="7" aria-hidden="true"><text x="0" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="start" transform="translate(0,0)" y="-9999">0</text><text x="0" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="start" transform="translate(0,0)" y="94" opacity="1">1,000</text><text x="0" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="start" transform="translate(0,0)" y="16" opacity="1">2,000</text></g><g class="highcharts-axis-labels highcharts-xaxis-labels" data-z-index="7" aria-hidden="true"><text x="63.777777777778" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="middle" transform="translate(0,0)" y="179" opacity="1">Jul 2022</text><text x="117.28945635102" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="middle" transform="translate(0,0)" y="179" opacity="1">Jan 2023</text><text x="169.92866190404" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="middle" transform="translate(0,0)" y="179" opacity="1">Jul 2023</text><text x="223.44034047728" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="middle" transform="translate(0,0)" y="179" opacity="1">Jan 2024</text><text x="263.747685185185" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="middle" transform="translate(0,0)" y="179" opacity="1"><title>Jul 2024</title>Jul 2…</text></g></svg></div><div id="highcharts-screen-reader-region-after-2" aria-label="" aria-hidden="false" style="position: relative;"><div aria-hidden="false" style="position: absolute; width: 1px; height: 1px; overflow: hidden; white-space: nowrap; clip: rect(1px, 1px, 1px, 1px); margin-top: -3px; opacity: 0.01;"><div id="highcharts-end-of-chart-marker-2">End of interactive chart.</div></div></div></div>
+  
+</div>
+        </div>
+
+        <div class="display-flex align-items-center">
+          <svg role="none" aria-hidden="true" class="jobs-premium-company-growth__median-tenure-years-clock-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="clock-medium">
+<!---->    
+    <use href="#clock-medium" width="24" height="24"></use>
+</svg>
+
+          <!---->Median employee tenure ‧<span class="white-space-pre"> </span><strong><!---->3.9 years<!----></strong>
+        </div>
+    </div>
+  
+          </div>
+
+          <div class="jobs-details-premium-insight company-talent-sources">
+            <h3 class="jobs-premium-company-insights__title">
+                <!---->Yates Construction hires candidates from some of these companies and schools<!---->
+            </h3>
+
+<!---->
+              
+    <div class="jobs-premium-company-insights__row-container top-companies-and-schools-module pt2">
+        <div class="jobs-premium-company-insights__talent-source-container top-companies-module pr4 pb0">
+          <h3 class="jobs-premium-company-insights__talent-source-header t-14 t-black--light t-normal pb3">
+              <!---->Engineering hires at Yates Construction came from these companies and more.<!---->
+          </h3>
+          <div>
+            <ul class="jobs-premium-company-insights__talent-source-list mb0 list-style-none">
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember512" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-91" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C560BAQFjVpL-RAieUw/company-logo_100_100/0/1630628884326/dpr_construction_inc_logo?e=1730332800&amp;v=beta&amp;t=YBS1oWB-EqC5PTyp48rP7sJftOIEIaRU6i2FpCD40_k" loading="lazy" alt="DPR Construction" id="ember513" class="EntityPhoto-square-3-ghost-company jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-91" class="ember-view"><div id="ember515" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember516" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-92" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/D560BAQGeK2qYRDtKoQ/company-logo_100_100/0/1704583168957/je_dunn_construction_logo?e=1730332800&amp;v=beta&amp;t=u5FUm7cbNMGD6dCUIDGrRXrVunHHF51rHoWA-tm0IOw" loading="lazy" alt="JE Dunn Construction" id="ember517" class="EntityPhoto-square-3-ghost-company jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-92" class="ember-view"><div id="ember519" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember520" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-93" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C510BAQHz397gOpPNsA/company-logo_100_100/0/1631304878548?e=1730332800&amp;v=beta&amp;t=-jj9m78unXcuGArLRrxG5Xsl41uiMUI9fFiWNLtKnW8" loading="lazy" alt="Satterfield &amp; Pontikes Construction" id="ember521" class="EntityPhoto-square-3-ghost-company jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-93" class="ember-view"><div id="ember523" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember524" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-94" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/D560BAQFW2HmUxLE-Xg/company-logo_100_100/0/1686535756842/cloughgroup_logo?e=1730332800&amp;v=beta&amp;t=ZVrLQ1lrtIhz5CojIkQPY6iDvWgiDAJXWJok2xxBs0o" loading="lazy" alt="Clough" id="ember525" class="EntityPhoto-square-3-ghost-company jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-94" class="ember-view"><div id="ember527" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember528" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-95" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/D4D0BAQHywZul3XajYQ/company-logo_100_100/0/1698180111397?e=1730332800&amp;v=beta&amp;t=zXz4GAXuIunrlXX0tR_C2AQiQEK5XBA52eDw9yuhW58" loading="lazy" alt="Lithko Contracting" id="ember529" class="EntityPhoto-square-3-ghost-company jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-95" class="ember-view"><div id="ember531" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember532" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-96" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C4E0BAQFzdikFfFUd6A/company-logo_100_100/0/1630585886946/hargrove_engineers_constructors_logo?e=1730332800&amp;v=beta&amp;t=2PQjfposb_kyTRo1wQtCPXiHOhcxa51Dy4ww7PZp9a0" loading="lazy" alt="Hargrove Engineers &amp; Constructors" id="ember533" class="EntityPhoto-square-3-ghost-company jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-96" class="ember-view"><div id="ember535" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember536" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-97" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C4E0BAQG_-1hUpQo3Ww/company-logo_100_100/0/1630577663133/garney_construction_logo?e=1730332800&amp;v=beta&amp;t=YcPBo4pnkFO3wN2Up29Mf8dQxwB2Eg-RdfYkU6zcXy0" loading="lazy" alt="Garney Construction" id="ember537" class="EntityPhoto-square-3-ghost-company jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-97" class="ember-view"><div id="ember539" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember540" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-98" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/D560BAQGVLRhYashMlA/company-logo_100_100/0/1704221423067/layton_construction_logo?e=1730332800&amp;v=beta&amp;t=hUb_gLP4dQUGxoet_IVko41IVInM0pVULRBVcQszp4Q" loading="lazy" alt="Layton Construction" id="ember541" class="EntityPhoto-square-3-ghost-company jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-98" class="ember-view"><div id="ember543" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember544" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-99" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/D560BAQEzCBd-BLTtHQ/company-logo_100_100/0/1719871905431/actalentservices_logo?e=1730332800&amp;v=beta&amp;t=hGWAd_M62V5aQfQJ3rpObTf8lRUoEHJk9xGC3ERD19c" loading="lazy" alt="Actalent" id="ember545" class="EntityPhoto-square-3-ghost-company jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-99" class="ember-view"><div id="ember547" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember548" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-100" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/D560BAQEyYiuk8-WtCw/company-logo_100_100/0/1693547837470/e2o_logo?e=1730332800&amp;v=beta&amp;t=LCT8IokMEy0nM9YONsyNd3VTkCs64QO7XEQ-DuTmhRc" loading="lazy" alt="e2o" id="ember549" class="EntityPhoto-square-3-ghost-company jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-100" class="ember-view"><div id="ember551" class="ember-view"></div></div>
+                  </span>
+                </li>
+            </ul>
+              <button class="link-without-visited-state" type="button">
+                See more companies
+              </button>
+          </div>
+        </div>
+
+        <div id="ember552" class="ember-view"><!----></div>
+
+        <div class="jobs-premium-company-insights__talent-source-container top-schools-module pl4 pb0">
+          <h3 class="t-14 t-black--light t-normal pb3">
+              <!---->Engineering hires at Yates Construction came from these schools and more.<!---->
+
+          </h3>
+          <div>
+            <ul class="jobs-premium-company-insights__talent-source-list mb0 list-style-none">
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember553" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-101" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C4D0BAQGePSP7sPgaAw/company-logo_100_100/0/1630434086527/mississippi_state_university_logo?e=1730332800&amp;v=beta&amp;t=rx5twskeiWBW8P68KOPJEqmOkAABh-j3cnbitRU0a50" loading="lazy" alt="Mississippi State University" id="ember554" class="EntityPhoto-square-3-ghost-school jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-101" class="ember-view"><div id="ember556" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember557" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-102" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C560BAQEWqzH4zn4HHQ/company-logo_100_100/0/1631319797013?e=1730332800&amp;v=beta&amp;t=znlObb19fhrPnOTIC_qwKPL7u7TH_uG36v9zOgnslGU" loading="lazy" alt="The University of Southern Mississippi" id="ember558" class="EntityPhoto-square-3-ghost-school jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-102" class="ember-view"><div id="ember560" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember561" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-103" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C560BAQHDGjY1IZJuog/company-logo_100_100/0/1631309406468?e=1730332800&amp;v=beta&amp;t=wUd8Cltj4ocvFCLMvVoz3aGMzM8Un6bXzMwRkR_XGhI" loading="lazy" alt="Arizona State University" id="ember562" class="EntityPhoto-square-3-ghost-school jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-103" class="ember-view"><div id="ember564" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember565" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-104" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C510BAQH0AwblDTN6-g/company-logo_100_100/0/1631353027028?e=1730332800&amp;v=beta&amp;t=UUIYtHsawxvqSIAFurC13X759YfI2D7z0Xyq4VWOJ6Q" loading="lazy" alt="Texas A&amp;M University" id="ember566" class="EntityPhoto-square-3-ghost-school jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-104" class="ember-view"><div id="ember568" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember569" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-105" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C4E0BAQFzO0OL0Hquqw/company-logo_100_100/0/1630650713266/middle_tennessee_state_university_logo?e=1730332800&amp;v=beta&amp;t=HaAiCwaAXAeiGEpJ6rZW6nNmgp4H5baUw5MlWGND3kw" loading="lazy" alt="Middle Tennessee State University (MTSU)" id="ember570" class="EntityPhoto-square-3-ghost-school jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-105" class="ember-view"><div id="ember572" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember573" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-106" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C560BAQH3EeUtUe_KLQ/company-logo_100_100/0/1630642913281/university_of_mississippi_logo?e=1730332800&amp;v=beta&amp;t=DjGN32CKga6WjwfGr3qshacpUxZjl28-2PbFrLX0PoM" loading="lazy" alt="University of Mississippi" id="ember574" class="EntityPhoto-square-3-ghost-school jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-106" class="ember-view"><div id="ember576" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember577" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-107" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C4D0BAQH8NfDQJIpORQ/company-logo_100_100/0/1631310477915?e=1730332800&amp;v=beta&amp;t=VpZwp9s1WjJNJiNnXjIfBtucw7RgtfDGY2b2gITLFfc" loading="lazy" alt="Western Kentucky University" id="ember578" class="EntityPhoto-square-3-ghost-school jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-107" class="ember-view"><div id="ember580" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember581" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-108" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C510BAQEJCA5v-4p8jQ/company-logo_100_100/0/1631317527277?e=1730332800&amp;v=beta&amp;t=PoTQaOwjdrb3Wrwr5nGcFQO9Brslqan9dRu9DQCISS4" loading="lazy" alt="The University of Memphis" id="ember582" class="EntityPhoto-square-3-ghost-school jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-108" class="ember-view"><div id="ember584" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember585" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-109" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C4E0BAQHLKagG7cuGew/company-logo_100_100/0/1630589853082/the_university_of_texas_at_san_antonio_logo?e=1730332800&amp;v=beta&amp;t=3B5Wo8R36IFiQ_RctAa7gSpUpDl9lt8yBH1Tq0oOVj4" loading="lazy" alt="The University of Texas at San Antonio" id="ember586" class="EntityPhoto-square-3-ghost-school jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-109" class="ember-view"><div id="ember588" class="ember-view"></div></div>
+                  </span>
+                </li>
+                <li class="jobs-premium-company-insights__talent-source-list-item
+                    
+                    ">
+                  <span tabindex="-1" id="ember589" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top ember-view">
+                    <button class="jobs-premium-company-insights__talent-source-wrapper" aria-controls="artdeco-hoverable-artdeco-gen-110" aria-expanded="false" type="button">
+                      <img src="https://media.licdn.com/dms/image/C4D0BAQFxedRB7q9Ceg/company-logo_100_100/0/1630537506680/university_of_alabama_logo?e=1730332800&amp;v=beta&amp;t=IliGUzBtU_ruaSVhEGAQovLexbgCHOGAaF1fbxR0bM4" loading="lazy" alt="The University of Alabama" id="ember590" class="EntityPhoto-square-3-ghost-school jobs-premium-company-insights__talent-source-logo evi-image lazy-image ember-view">
+                    </button>
+                    <div id="artdeco-gen-110" class="ember-view"><div id="ember592" class="ember-view"></div></div>
+                  </span>
+                </li>
+            </ul>
+              <button class="link-without-visited-state" type="button">
+                See more schools
+              </button>
+          </div>
+        </div>
+
+        <div id="ember593" class="ember-view"><!----></div>
+    </div>
+  
+          </div>
+
+<!---->
+          <a href="/company/yates-construction/insights/?insightType=HEADCOUNT" id="ember620" class="ember-view jobs-details-premium-insight__company-link link-without-hover-state text-align-center pt3 block">
+            Show more Premium insights
+          </a>
+    </div>
+  
+    </div>
+  
+
+              <section class="artdeco-card mt4">
+<!---->
+  
+                
+    <section class="jobs-company jobs-box--fadein mb4">
+      <div class="jobs-company__box">
+        <h2 class="text-heading-large">
+          About the company
+        </h2>
+
+        <div class="display-flex align-items-center mt5">
+          <div id="ember594" class="artdeco-entity-lockup artdeco-entity-lockup--size-5 ember-view flex-grow-1">
+            <div id="ember595" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+              <a href="/company/yates-construction/life/" id="ember596" class="ember-view link-without-hover-state inline-block">
+                <img title="Yates Construction" src="https://media.licdn.com/dms/image/C4D0BAQHornh5Vr9j7g/company-logo_100_100/0/1631310544587?e=1730332800&amp;v=beta&amp;t=1y7DOwj3dHcy1FIOFkumIJAI-IJlVhXM94hAbKCY-sY" alt="Yates Construction company logo" id="ember597" class="evi-image ember-view">
+              </a>
+            
+</div>
+            <div id="ember598" class="artdeco-entity-lockup__content ember-view flex-grow-1">
+              <div id="ember599" class="artdeco-entity-lockup__title ember-view t-20">
+                <a href="/company/yates-construction/life/" id="ember600" class="ember-view link-without-visited-state inline-block t-black">
+                  Yates Construction
+                </a>
+              
+</div>
+              <div id="ember601" class="artdeco-entity-lockup__subtitle ember-view t-16">
+                40,441 followers
+              </div>
+            </div>
+          
+</div>
+          <button class="follow   artdeco-button artdeco-button--secondary ml5" aria-label="Follow" type="button">
+      <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="add-small">
+<!---->    
+    <use href="#add-small" width="16" height="16"></use>
+</svg>
+
+    <span aria-hidden="true">Follow</span>
+</button>
+        </div>
+
+        <div class="t-14 mt5">
+          Construction
+            <span class="jobs-company__inline-information">
+              5,001-10,000 employees
+            </span>
+            <span class="jobs-company__inline-information">
+              1,702 on LinkedIn
+            </span>
+        </div>
+        <p class="jobs-company__company-description text-body-small-open">
+          
+    <div class="oZRFoMbxEZGzTeAZnIsvbFcZgizBoIjncuOEw
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        " style="-webkit-line-clamp:3;" tabindex="-1">
+
+        Yates Construction is part of The Yates Companies, Inc. which ranks among the top construction services providers in the nation. With annual revenues consistently exceeding $2 billion, 28 offices throughout North America, and over 5,500 employees, we provide a full range of construction services to clients around the world. Our strengths enable us to provide clients with the resources and expertise that ensure successful projects.<br><br>Our Commitment<br>Yates Construction was incorporated in 1964 and provides quality services by the founder’s motto: on time, within budget, to your satisfaction. <br><br>Our Experience <br>Operating globally as a turn-key service provider, Yates offers clients a full range of engineering and construction services including the following self-performance capabilities: electrical, mechanical, heavy, civil, concrete, masonry, steel fabrication, asphalt/paving, security, maintenance, and utilities. These capabilities facilitate greater control over schedules and budgets on fast-track and complex projects. <br><br>Core Values<br>Safety, Integrity, Passion, and Commitment
+      
+          <span class="inline-show-more-text__link-container-collapsed">
+              <span>…</span>
+            <button class="inline-show-more-text__button
+                inline-show-more-text__button--light
+                link" aria-expanded="false" role="button" type="button">
+              show more
+            </button>
+          </span>
+
+<!---->    </div>
+  
+        </p>
+
+<!---->
+            
+    <section class="artdeco-card org-interest-pipeline justify-space-between overflow-hidden
+         mt5">
+<!---->
+  
+      <div class="p5 org-interest-pipeline--alt-background
+           org-interest-pipeline--jobs-page">
+        <div class="org-interest-pipeline__contents">
+          <div class="org-interest-pipeline__messages">
+            <h3 class="text-heading-large mb1">
+              <!---->Interested in working with us in the future?<!---->
+            </h3>
+            <p class="text-body-small-open mb4 t-black" tabindex="0">
+              <span aria-hidden="true"><!---->Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year.<span class="white-space-pre"> </span><a class="app-aware-link " target="_blank" href="https://www.linkedin.com/help/linkedin/answer/a1380509" data-test-app-aware-link=""><!---->Learn more<!----></a></span><span class="visually-hidden"><!---->Learn more about Interested in working for our company<!----></span>
+            </p>
+              <button id="ember625" class="org-interest-pipeline__interest-button artdeco-button artdeco-button--2 artdeco-button--secondary ember-view"><!---->
+<span class="artdeco-button__text">
+    I’m interested
+</span></button>
+          </div>
+            <div class="org-interest-pipeline__main-conversation-icon"></div>
+        </div>
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->      </div>
+    
+</section>
+  
+
+          <div class="jobs-company__content mt5 pt5">
+              
+
+    <section class="org-life-feed-gallery__container
+        
+        org-life-feed-gallery__container--inline">
+      <section id="ember602" class="artdeco-carousel single-slide ember-view"><div class="artdeco-carousel__heading
+    artdeco-carousel__heading--custom">
+    
+        <div id="ember603" class="artdeco-carousel__title ember-view">
+          <h2 class="t-16 t-black t-bold">
+            Trending employee content
+          </h2>
+<!---->        </div>
+        <!---->
+      
+    <div class="artdeco-carousel__navigation
+        ">
+      <div id="ember604" class="artdeco-pagination artdeco-pagination--hide-pagination artdeco-pagination--has-controls ember-view">  <button disabled="" aria-label="Previous" id="ember605" class="artdeco-button artdeco-button--muted artdeco-button--1 artdeco-button--tertiary artdeco-button--disabled ember-view artdeco-pagination__button artdeco-pagination__button--previous" type="button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon  rtl-flip" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="chevron-left-small">
+<!---->    
+    <use href="#chevron-left-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Previous
+</span></button>
+
+<!---->
+  <button aria-label="Next" id="ember606" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--1 artdeco-button--tertiary ember-view artdeco-pagination__button artdeco-pagination__button--next" type="button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon  rtl-flip" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="chevron-right-small">
+<!---->    
+    <use href="#chevron-right-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Next
+</span></button>
+</div>
+    </div>
+</div>
+
+<div class="artdeco-carousel__content">
+    
+        <!---->
+        <ul id="ember607" class="artdeco-carousel__slider ember-view" role="none" style="transform: translateX(0px);">
+            <li tabindex="-1" style="width: 239.20000000000002px;" data-item-index="0" id="ember608" class="artdeco-carousel__item active ember-view"><div data-test-display="display" class="artdeco-carousel__item-container">
+    
+              
+        <div id="ember621" class="ember-view org-life-feed-gallery__occludable-carousel-item  ">
+<!---->        </div>
+  
+            
+</div></li>
+            <li tabindex="-1" style="width: 239.20000000000002px;" data-item-index="1" id="ember609" class="artdeco-carousel__item ember-view"><div data-test-display="display" class="artdeco-carousel__item-container">
+    
+              
+        <div id="ember622" class="ember-view org-life-feed-gallery__occludable-carousel-item  ">
+<!---->        </div>
+  
+            
+</div></li>
+            <li tabindex="-1" style="width: 239.20000000000002px;" data-item-index="2" id="ember610" class="artdeco-carousel__item ember-view"><div data-test-display="hidden" class="artdeco-carousel__item-container">
+<!----></div></li>
+            <li tabindex="-1" style="width: 239.20000000000002px;" data-item-index="3" id="ember611" class="artdeco-carousel__item ember-view"><div data-test-display="hidden" class="artdeco-carousel__item-container">
+<!----></div></li>
+            <li tabindex="-1" style="width: 239.20000000000002px;" data-item-index="4" id="ember612" class="artdeco-carousel__item ember-view"><div data-test-display="hidden" class="artdeco-carousel__item-container">
+<!----></div></li>
+            <li tabindex="-1" style="width: 239.20000000000002px;" data-item-index="5" id="ember613" class="artdeco-carousel__item ember-view"><div data-test-display="hidden" class="artdeco-carousel__item-container">
+<!----></div></li>
+            <li tabindex="-1" style="width: 239.20000000000002px;" data-item-index="6" id="ember614" class="artdeco-carousel__item ember-view"><div data-test-display="hidden" class="artdeco-carousel__item-container">
+<!----></div></li>
+            <li tabindex="-1" style="width: 239.20000000000002px;" data-item-index="7" id="ember615" class="artdeco-carousel__item ember-view"><div data-test-display="hidden" class="artdeco-carousel__item-container">
+<!----></div></li>
+            <li tabindex="-1" style="width: 239.20000000000002px;" data-item-index="8" id="ember616" class="artdeco-carousel__item ember-view"><div data-test-display="hidden" class="artdeco-carousel__item-container">
+<!----></div></li>
+            <li tabindex="-1" style="width: 239.20000000000002px;" data-item-index="9" id="ember617" class="artdeco-carousel__item ember-view"><div data-test-display="hidden" class="artdeco-carousel__item-container">
+<!----></div></li>
+        </ul>
+      
+</div>
+
+<!----></section>
+
+<!---->    </section>
+  
+          </div>
+      </div>
+
+      <div class="jobs-company__footer text-align-center">
+        <a href="/company/yates-construction/life/" id="ember618" class="ember-view link-without-hover-state block pv3" aria-label="Show more about the company">
+          Show more
+        </a>
+      </div>
+    </section>
+  
+              
+</section>
+
+<!---->
+<!----><!---->        </div>
+      </div>
+
+<!---->
+<!---->
+      
+    <div id="ember63" class="ember-view"><!----></div>
+
+    <div id="ember64" class="ember-view"><div id="ember65" class="ember-view"><!----></div></div>
+  
+
+      
+  <div id="ember66" class="ember-view"><!----></div>
+
+
+<!---->
+<!---->
+<!---->
+      
+    <div>
+        
+    <div id="ember67" class="ember-view"><!----></div>
+  
+    </div>
+  
+
+<!---->
+<!----><!----><!---->    </div>
+  
+  
+      </div>
+  
+
+      <!---->
+    </div>
